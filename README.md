@@ -1,11 +1,1 @@
-This dataset contains information about the top 1000 highest grossing hollywood films.
-
-Main Attributes:
-Title: Title of Movie
-Movie Info: Summary of the Story
-Distributor
-Release Date
-Sale: Domestic Sales, International Sales, World Sales
-Genre: Genre of movie (1 movie may have many genres)
-Movie Runtime
-License
+"Our World in Data" which in collaboration with The University of Oxford have developed a reliable repository of datasets about dozens of topics focusing on those big problems which affect the world. This is why since the beginning of COVID-19 outbreak several researchers have been collecting data from every country in the world about multiple indicators which can make us take better decisions, what is more amazing is the fact that this dataset offered is updated every day for all countries allowing people to keep track of it. In the following link you can find fascinating charts about the pandemic and obviously the World COVID-19 dataset (up to date) containing over 60 features.
