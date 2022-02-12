@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @saurabhsd88
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analytics using python
-- 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me ...
+This dataset contains information about the top 1000 highest grossing hollywood films.
 
-<!---
-saurabhsd88/saurabhsd88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Main Attributes:
+Title: Title of Movie
+Movie Info: Summary of the Story
+Distributor
+Release Date
+Sale: Domestic Sales, International Sales, World Sales
+Genre: Genre of movie (1 movie may have many genres)
+Movie Runtime
+License
